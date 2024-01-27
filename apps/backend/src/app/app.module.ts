@@ -32,7 +32,7 @@ import { ProductService } from '../product/product.service';
     OrderService,
     AuthService,
     ProductService,
-    PrismaService
+    PrismaService,
   ],
 })
 export class AppModule {}
